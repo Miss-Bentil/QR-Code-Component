@@ -39,7 +39,7 @@ h1{
 .container{
     background-color: #fff;
     max-width: 375px;
-    margin:0 auto;
+    width:70%;
     border-radius: 1rem;
 
 
@@ -78,11 +78,13 @@ p.text{
     color: hsl(228, 45%, 44%);
   }
 
+  /*
   @media (max-width: 500px) {
     .container {
       width: 400px;
     }
   }
+  */
 
 
 
